@@ -1,0 +1,6 @@
+SentinX_Hybrid_IDS/
+├── code/                # Jupyter notebooks, Python scripts
+├── datasets/            # Sample traffic data
+├── docs/                # Project report, diagrams
+├── certificates/        # PDF certificates
+└── README.md
